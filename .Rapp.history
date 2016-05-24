@@ -1,0 +1,17 @@
+x <- c(1,2,3,5)
+for (letter in x) print(letter)
+getwd
+getwd()
+setwd("/Volumes/Data HD/arthuraouille/Dev/Repos/coursera")
+T ==T
+T
+T <- "r"
+TRUE
+T
+rm(list=ls())
+T
+FALSE && TRUE
+!isTRUE(TRUE)
+6 > -1
+!!TRUE
+!!FALSE
